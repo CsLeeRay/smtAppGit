@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/pool.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/css/smt.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/img/FIIL_Diva.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/img/Sennheiser_Urbanite_XL.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/img/Smartisan_JGZP.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/img/Smartisan_M1_RJBHT.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/img/Smartisan_S-100.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/img/Smartisan_S-1000_BASS.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/img/banner1.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/img/banner2.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/img/logo.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/js/smt.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smt_app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smt_center.js" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
